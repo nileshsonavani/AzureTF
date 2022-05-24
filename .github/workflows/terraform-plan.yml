@@ -5,7 +5,7 @@ on:
     branches: [ master ]
 jobs:
   terraform:
-    runs-on: VMwin2
+    runs-on: ubuntu-latest
 
     env:
       ARM_CLIENT_ID: 09a0c88f-371e-4589-a5c9-b6afabd9cfa8
