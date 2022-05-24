@@ -8,7 +8,7 @@ jobs:
     runs-on: VMwin2
 
     env:
-      ARM_CLIENT_ID: 21389413-b858-4bd8-b810-4ad384720be0
+      ARM_CLIENT_ID: 09a0c88f-371e-4589-a5c9-b6afabd9cfa8
       ARM_CLIENT_SECRET: ${{secrets.TF_ARM_CLIENT_SECRET}}
       ARM_SUBSCRIPTION_ID: 8cb6a6a8-c9a0-48fa-baf5-9da16f24ee01
       ARM_TENANT_ID: dd07aebf-b0ce-4e80-a24f-3a969258a6bf
